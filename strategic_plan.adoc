@@ -1,0 +1,41 @@
+= TTM Strategic Guide
+:subtitle: TBA
+:imagesdir: images/
+:stylesdir: stylesheets/
+:stylesheet: ttm.css
+:linkcss:
+:icons: font
+:author: Chris Gardiner-Bill
+:revnumber: 
+:revdate: 
+:toc:
+:toc-placement!:
+
+
+[colophon]
+==	{subtitle}
+{author}
+
+
+Revision Number: {revnumber}, Issue Date: {revdate}
+
+=== Document History
+
+<<<
+
+toc::[]
+
+
+== Executive Summary
+
+== Business Plan Purpose
+
+== Strategic Context
+
+== Organisational Context
+
+== Environmental Context and Analysis
+
+== Strategic Framework
+
+
