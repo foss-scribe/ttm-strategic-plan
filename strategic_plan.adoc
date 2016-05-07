@@ -61,7 +61,10 @@ Finally, in Strategic Framework, we have identified developed an action plan tha
 
 Transition Town Maroondah is:
 
-	Working towards achieving zero net emissions across the City of Maroondah in accordance with established scientific standards by 2020. We believe in creating a sustainable and resilient community through active participation and re-localisation.
+____
+Working towards achieving zero net emissions across the City of Maroondah in accordance with established scientific standards by 2020. We believe in creating a sustainable and resilient community through active participation and re-localisation.
+____
+
 	
 === Our mission
 
@@ -170,10 +173,10 @@ TTM wishes to see our existing projects (several current projects are listed amo
 === Our achievements
 TTM has achieved considerable success in the local community in recent years with the following initiatives:
 
-* (https://croydonfoodswap.wordpress.com)[Outer Eastern Permaculture Swap](_formerly Croydon Food Swap_). This Food Swap intuitive began in Croydon and now has branches in Mooroolbark and Wonga Park.
-* Creation of a local (http://groundtoground.org/)[Ground to Ground] initiative
+* https://croydonfoodswap.wordpress.com[Outer Eastern Permaculture Swap](_formerly Croydon Food Swap_). This Food Swap intuitive began in Croydon and now has branches in Mooroolbark and Wonga Park.
+* Creation of a local http://groundtoground.org/[Ground to Ground] initiative
 * Annual Earth Hour event planning and hosting in collaboration with Maroondah City Council.
-* (http://ttm.org.au)[TTM website] and social media campaign.
+* http://ttm.org.au[TTM website] and social media campaign.
 * Supported participation in ride to school days and ride to work days.
 * Advocated for sustainable transport
 * Formed a Ringwood East Garden Group
@@ -311,7 +314,8 @@ In this section, TTM has identified our main stakeholders grouped by their indus
 
 === Strengths and Weaknesses
 
-Strengths: 
+Strengths:
+
 * membership
 * resilience
 * long term members
@@ -372,10 +376,53 @@ Threats:
 * lack of collaboration
 * not being listened to 
 
+=== Leveraging our Strengths
+
+In the table below, we describe the activities we will undertake that leverage our strengths as an organisation.
+
+|====
+| Strength	| Activity
 
 
+|====
 
+=== Overcoming our weaknesses
+
+In the table below, we describe the activities we will undertake to overcome our weaknesses as an organisation.
+
+|====
+| Weakness	| Activity
+
+
+|====
+
+=== Capitalising on Opportunities
+
+In the table below, we describe the activities we will undertake to capitalise on the opportunities we have identified.
+
+|====
+| Opportunities	| Activity
+
+
+|====
+
+=== Mitigating Threats
+In the table below, we describe the activities we will undertake to mitigate the threats we have identified that will undermine our organisation or impede our ability to reach our goals.
+
+|====
+| Threats	| Activity
+
+
+|====
 
 == Strategic Framework
+
+=== Our Goals -- 2016-2018
+
+=== Action Plan
+
+=== Key performance Indicators
+
+
 
 
