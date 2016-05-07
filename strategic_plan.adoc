@@ -7,14 +7,14 @@
 :icons: font
 :author: Chris Gardiner-Bill
 :revnumber: 0.7
-:revdate: TBA
+:revdate: 7/5/2016
 :toc:
 :toc-placement!:
 
 
 [colophon]
 ==	{subtitle}
-{author}
+Author: {author}
 
 
 Revision Number: {revnumber}, Issue Date: {revdate}
@@ -34,7 +34,7 @@ Revision Number: {revnumber}, Issue Date: {revdate}
 | Chris Gardiner-Bill
 |
 | 16/04/2016
-| Moved to LibreOfffice format
+| Moved to LibreOffice format
 
 | 0.5
 | Chris Gardiner-Bill
@@ -110,7 +110,7 @@ Finally, in Strategic Framework, we have identified developed an action plan tha
 Transition Town Maroondah is:
 
 ____
-Working towards achieving zero net emissions across the City of Maroondah in accordance with established scientific standards by 2020. We believe in creating a sustainable and resilient community through active participation and re-localisation.
+Working towards achieving zero net emissions across the City of Maroondah in accordance with established scientific standards by 2020. We believe in creating a sustainable and resilient community through active participation and re-localisation.
 ____
 
 	
@@ -221,7 +221,7 @@ TTM wishes to see our existing projects (several current projects are listed amo
 === Our achievements
 TTM has achieved considerable success in the local community in recent years with the following initiatives:
 
-* https://croydonfoodswap.wordpress.com[Outer Eastern Permaculture Swap](_formerly Croydon Food Swap_). This Food Swap intuitive began in Croydon and now has branches in Mooroolbark and Wonga Park.
+* https://croydonfoodswap.wordpress.com[Outer Eastern Permaculture Swap] (_formerly Croydon Food Swap_). This Food Swap intuitive began in Croydon and now has branches in Mooroolbark and Wonga Park.
 * Creation of a local http://groundtoground.org/[Ground to Ground] initiative
 * Annual Earth Hour event planning and hosting in collaboration with Maroondah City Council.
 * http://ttm.org.au[TTM website] and social media campaign.
