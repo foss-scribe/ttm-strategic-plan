@@ -28,13 +28,353 @@ toc::[]
 
 == Executive Summary
 
+#TBC#
+
 == Business Plan Purpose
+
+=== Why this plan was developed
+This plan has been developed as the successor of the previous TTM Strategic Plan which detailed our vision, mission and goals for 2012 to 2016.
+This current plan aims to provide a new operating vision, operating framework and action plan for 2016 to 2018.
+
+In contrast to the previous plan, which was developed prior to our incorporation, this Plan has been prepared inline with formal business planning methodologies to ensure TTM is better able to encapsulate both what we want to achieve and provided a more structured framework for working with the Maroondah community, businesses and Council.
+
+=== How this plan was developed
+This plan began life during an initial consultation with Phil Medley and Dale Bristow of the Maroondah City Council who provided guidance on strategic planning and an insight into Council attitudes towards Sustainability and TTM as a community organisation.
+Following this, the Plan was developed in collaboration by the TTM Core Group (See <<Organisational Context>>).
+
+The Plan was authorised and ratified by current President, Pamela French on #xx/xx/2016#.
+
+=== The scope and parameters of this plan
+This plan seeks to define the strategic context, stakeholders and action for Transition Town Maroondah for 2016 to 2018.
+
+In Strategic Context, we describe our vision, mission and values.
+
+In Organisation Context, we define TTM’s role in achieving our vision and the outcomes we want to achieve during the lifetime of this plan.
+
+In Environmental Analysis, we have conducted a detailed study of the key factors that influence our ability to meet our outcomes. We identify our key stakeholders and critically analyse our strengths and weaknesses as an organisation as well the identify opportunities and threats.
+
+Finally, in Strategic Framework, we have identified developed an action plan that defines how we will work towards or goals for the period and the measures by which our progress will be measured.
 
 == Strategic Context
 
+=== Our vision
+
+Transition Town Maroondah is:
+
+	Working towards achieving zero net emissions across the City of Maroondah in accordance with established scientific standards by 2020. We believe in creating a sustainable and resilient community through active participation and re-localisation.
+	
+=== Our mission
+
+Transition Town Maroondah will achieve our vision through:
+
+* Educating the community
+* Starting and encouraging debate
+* Being the catalyst for the community involvement
+* Advocacy at all levels of community, government and business
+* Initiate, facilitate and manage projects
+* Seeding funding for initiatives
+* Supporting and empowering people and businesses
+* Adopting global Transition Town methods
+* Engagement with Council
+
+=== Our values
+
+Transition Town Maroondah's values are:
+
+* A sustainable environment
+* A vibrant community
+* Open, respectful and honest communication and cooperation.
+* Recognition that all ages, races and religions in the community are equal.
+* Courage and belief in our mission.
+
 == Organisational Context
 
+=== Our Purpose, Role and Function
+In this section we describe the key purpose of TTM, along with the key roles and functions that will enable us to achieve our outcomes.
+
+=== Organisation
+TTM is structured as an incorporated body and made up of a Core Group containing our office bearers as well as several ordinary members. Our Core Group is:
+
+* Pamela French, President
+* Stuart Lewien, Vice-President
+* Michael Down, Secretary
+* Jean Allan, Treasurer
+* Yvonne Rooney, Member
+* Amber-lea Drinnan, Member
+* Chris Gardiner-Bill, Member
+
+The officers are responsible for leadership and guidance as well as meeting TTM’s legal requirements as an incorporated body.
+
+In general, however, the Core Group role is to work with the community, business and Council to educate the community, raise awareness and initiate and facilitate projects that will create a more sustainable and resilient community in a post-carbon based economy.
+
+=== Roles and Functions
+TTM is working towards the creation of an organisation model where we identify our core business functions and assign responsibility to our members.
+
+These roles and functions are:
+
+* Communications, Marketing and Publicity: To manage TTM communications across all domains (traditional, print, web and social media)
+* Grants, Proposals and Advocacy: To manage, coordinate and develop activities relating to grant applications, project proposals and advocacy.
+* Membership and Recruitment: To manage and foster TTM membership and recruitment.
+* Programme Management: To manage, facilitate and coordination TTM and community projects and events.
+* Management and Information Systems: To develop, deploy and manage TTM business and information systems.
+
+|====
+| Function | Lead | Support
+
+| Communications, Marketing and Publicity 
+| #TBA#
+| #TBA#
+
+| Grants, proposals and advocacy
+| Yvonne Rooney
+| Amber-Lea Drinnan
+
+| Membership and recruitment
+| Monique
+|
+ 
+| Programme Management
+| Stuart Lewien
+|
+
+| Management and Information Systems
+| Chris Gardiner-Bill
+|
+|====
+
+=== The Outcomes That Are We Seeking to Achieve
+For the period of 2016-2016, TTM will work towards achieving the following goals:
+
+* Ringwood East – a sustainable pilot model
+* Increase community and member participation
+* Align community expectations with COP21
+* Sustainable Transport
+* Expanding existing projects
+* These are detailed in the following sections.
+
+==== Ringwood East – a sustainable pilot model
+TTM is seeking to work with the Maroondah City Council to develop the Ringwood East activity area as a model of resilience, sustainability and environmental excellence which could be replicated in other areas of Maroondah.
+
+==== Community and Member Participation
+TTM is seeking greater participation from our members and the wider community in local events, projects and advocacy activities by individuals, businesses and schools.
+
+==== Align community expectations with COP21
+TTM strongly believes that reducing our reliance on carbon-based fuels is imperative to the long-term wellbeing and prosperity of our community and the world in which we live. As such, our goal is to align community, business and Council expectations with the targets set out in the COP21 climate conference of late 2015.
+
+==== Sustainable Transport
+Sustainable transportation is a core driver of the TTM and our goal is to get more people engaged in cycling, walking and using public transport.
+
+==== Expanded Projects
+TTM wishes to see our existing projects (several current projects are listed amount our achievements below) continue to grow and prosper. We want to encourage and inspire people to plan and deliver more projects that benefit community and meet our objectives.
+
+=== Our achievements
+TTM has achieved considerable success in the local community in recent years with the following initiatives:
+
+* (https://croydonfoodswap.wordpress.com)[Outer Eastern Permaculture Swap](_formerly Croydon Food Swap_). This Food Swap intuitive began in Croydon and now has branches in Mooroolbark and Wonga Park.
+* Creation of a local (http://groundtoground.org/)[Ground to Ground] initiative
+* Annual Earth Hour event planning and hosting in collaboration with Maroondah City Council.
+* (http://ttm.org.au)[TTM website] and social media campaign.
+* Supported participation in ride to school days and ride to work days.
+* Advocated for sustainable transport
+* Formed a Ringwood East Garden Group
+* Been involved in a Community Housing Group.
+* Assisted with tree plantings and preservation of native bushland.
+* Facilitated monthly gatherings with films, guest speakers and shared meals for Maroondah residents.
+* Held a regular stall in the sustainability area of the Maroondah Festival.
+* Presented Composting, Reskilling and Waste workshops.
+* Been involved in Sustainability Education in relation to the Transition Towns Initiatives and broader Transition Towns Network.
+* Participated in the 2040 Maroondah Vision.
+* Help Solar Information Forum promoting the value of solar power.
+* Organised Street Parties.
+* Participated in Forums on Education, Food Security, Energy Management.
+* Played a notable role in the evolvement of the Ringwood East Structure Plan (which is to be ratified April 2016).
+* Been involved with discussions organised by the Council re development of the Maroondah 
+Housing Strategy.
+
+These successes have helped to establish TTM as a well-respected local organisation. Moreover, they have provided us with a platform from which we can engage with the community on new initiatives planned for this period.
+
+
 == Environmental Context and Analysis
+
+=== Our Influences
+
+Political:
+
+* Federal and State and local Government policies and organisations
+* Free trade treaties
+* Legislation affecting technology, energy, transportation, housing, zoning and migration
+* Politicisation of environmental issues
+
+
+Economical:
+
+* Macroeconomics
+* Local economy
+* Local food production
+* Local manufacturing
+* Green technology
+* Peak Oil
+* Food Security
+* Globalisation
+* Debt levels
+
+Social: 
+
+* Social media
+* Demographics including migration and increased population density
+* Other related organisations
+* Organic and permaculture movements
+* Schools
+* Other community and environmental organisations
+
+Technological:
+
+* Renewable energy
+* Sustainable transport
+* Communications technology
+* Open-source software and hardware
+* DIY and Maker movement
+* Waste management
+* Recycling
+* Mesh networks
+
+Legal:
+
+* Legal frameworks for incorporated bodies
+* Vehicle registration laws
+* Victorian EPA regulations
+* Zoning laws
+* Housing and planning permission
+* Energy generation laws
+* Road transport laws
+* Intellectual property law
+
+Environmental:
+
+* COP21
+* Resource depletion
+* Carbon
+* Ocean acidification
+* Food Miles
+* Permaculture
+
+=== Stakeholders
+In this section, TTM has identified our main stakeholders grouped by their industry type.
+
+==== Local and Regional Government
+
+|====
+| Stakeholder | Interests	| Influence	| Needs	| Expectations
+
+|====
+
+==== Environmental Groups
+
+
+|====
+| Stakeholder | Interests	| Influence	| Needs	| Expectations
+
+|====
+
+
+==== Greenery and Food Groups
+
+
+|====
+| Stakeholder | Interests	| Influence	| Needs	| Expectations
+
+|====
+
+==== Community Organisations
+
+
+|====
+| Stakeholder | Interests	| Influence	| Needs	| Expectations
+
+|====
+
+==== Education Providers and Schools
+
+
+|====
+| Stakeholder | Interests	| Influence	| Needs	| Expectations
+
+|====
+
+==== Local Businesses in Maroondah
+
+
+|====
+| Stakeholder | Interests	| Influence	| Needs	| Expectations
+
+|====
+
+=== Strengths and Weaknesses
+
+Strengths: 
+* membership
+* resilience
+* long term members
+* knowledge and expertise
+* few things really well
+* passion and commitment
+* good relationship with council
+* respected
+* incorporated
+* have influence
+* no-one else in the space
+
+Weaknesses:
+
+* lack of strategy
+* not engaged with wider membership
+* confused identity
+* lack of decision-making
+* use of IT
+* breadth of issues
+* lack of business expertise
+* lack of working alliances
+* publicity
+* lack of knowledge of our membership 
+* Lack of subject matter expertise in some areas (ie waste)
+
+Opportunities: 
+
+* take more middle ground politically less left / green
+* Paris (COP21)
+* leverage of Council projects
+* election year: Federal; council
+* sustainability awards
+* size of membership
+* Ringwood East proposal – sustainability model
+* home-base / venue
+* local businesses
+* cycling in local areas
+* incorporate as charitable organisation weather
+* writing case studies
+* use of media
+* membership incentives
+
+Threats: 
+
+* insurance
+* people are time poor
+* cheap oil
+* burn-out
+* lack of direction and priority
+* over-committing
+* lack of looking at 80:20 principle
+* lack of engagement: 
+** membership 
+** general community
+* macro-economic
+* media
+* lack of collaboration
+* not being listened to 
+
+
+
+
 
 == Strategic Framework
 
