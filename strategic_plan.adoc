@@ -98,7 +98,7 @@ This plan began life during an initial consultation with Phil Medley and Dale Br
 
 Following this, the Plan was developed in collaboration by the TTM Core Group (See <<Organisational Context>>).
 
-In May 2016, the plan was released under a Creative Commons Licence and developed moved to https://github.com/foss-scribe/ttm-strategic-plan[GitHub].
+In May 2016, the plan was released under a Creative Commons Licence and development moved to https://github.com/foss-scribe/ttm-strategic-plan[GitHub].
 
 The Plan was authorised and ratified by current President, Pamela French on #xx/xx/2016#.
 
@@ -107,9 +107,9 @@ This plan seeks to define the strategic context, stakeholders and action for Tra
 
 In <<Strategic Context>>, we describe our vision, mission and values.
 
-In <<Organisation Context>>, we define TTM’s role in achieving our vision and the outcomes we want to achieve during the lifetime of this plan.
+In <<Organisational Context>>, we define TTM’s role in achieving our vision and the outcomes we want to achieve during the lifetime of this plan.
 
-In <<Environmental Analysis>>, we have conducted a detailed study of the key factors that influence our ability to meet our outcomes. We identify our key stakeholders and critically analyse our strengths and weaknesses as an organisation as well the identify opportunities and threats.
+In <<Environmental Context and Analysis>>, we have conducted a detailed study of the key factors that influence our ability to meet our outcomes. We identify our key stakeholders and critically analyse our strengths and weaknesses as an organisation as well the identify opportunities and threats.
 
 Finally, in <<Strategic Framework>>, we have identified developed an action plan that defines how we will work towards or goals for the period and the measures by which our progress will be measured.
 
