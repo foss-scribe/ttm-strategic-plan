@@ -6,8 +6,8 @@
 :linkcss:
 :icons: font
 :author: Chris Gardiner-Bill
-:revnumber: 0.7
-:revdate: 7/5/2016
+:revnumber: 0.8
+:revdate: 13/5/2016
 :toc:
 :toc-placement!:
 
@@ -23,6 +23,13 @@ Revision Number: {revnumber}, Issue Date: {revdate}
 
 |====
 | No.	| Prepared by	| Approved by	| Release Date	| Comments
+
+| 0.8
+| Chris Gardiner-Bill
+|
+| 13/5/2016
+| Minor corrections
+
 
 | 0.7
 | Chris Gardiner-Bill
@@ -88,20 +95,23 @@ In contrast to the previous plan, which was developed prior to our incorporation
 
 === How this plan was developed
 This plan began life during an initial consultation with Phil Medley and Dale Bristow of the Maroondah City Council who provided guidance on strategic planning and an insight into Council attitudes towards Sustainability and TTM as a community organisation.
+
 Following this, the Plan was developed in collaboration by the TTM Core Group (See <<Organisational Context>>).
+
+In May 2016, the plan was released under a Creative Commons Licence and developed moved to https://github.com/foss-scribe/ttm-strategic-plan[GitHub].
 
 The Plan was authorised and ratified by current President, Pamela French on #xx/xx/2016#.
 
 === The scope and parameters of this plan
 This plan seeks to define the strategic context, stakeholders and action for Transition Town Maroondah for 2016 to 2018.
 
-In Strategic Context, we describe our vision, mission and values.
+In <<Strategic Context>>, we describe our vision, mission and values.
 
-In Organisation Context, we define TTM’s role in achieving our vision and the outcomes we want to achieve during the lifetime of this plan.
+In <<Organisation Context>>, we define TTM’s role in achieving our vision and the outcomes we want to achieve during the lifetime of this plan.
 
-In Environmental Analysis, we have conducted a detailed study of the key factors that influence our ability to meet our outcomes. We identify our key stakeholders and critically analyse our strengths and weaknesses as an organisation as well the identify opportunities and threats.
+In <<Environmental Analysis>>, we have conducted a detailed study of the key factors that influence our ability to meet our outcomes. We identify our key stakeholders and critically analyse our strengths and weaknesses as an organisation as well the identify opportunities and threats.
 
-Finally, in Strategic Framework, we have identified developed an action plan that defines how we will work towards or goals for the period and the measures by which our progress will be measured.
+Finally, in <<Strategic Framework>>, we have identified developed an action plan that defines how we will work towards or goals for the period and the measures by which our progress will be measured.
 
 == Strategic Context
 
@@ -156,10 +166,10 @@ TTM is structured as an incorporated body and made up of a Core Group containing
 
 The officers are responsible for leadership and guidance as well as meeting TTM’s legal requirements as an incorporated body.
 
-In general, however, the Core Group role is to work with the community, business and Council to educate the community, raise awareness and initiate and facilitate projects that will create a more sustainable and resilient community in a post-carbon based economy.
+In general, however, the Core Group's role is to work with the community, business and Council to educate, raise awareness and initiate and facilitate projects that will create a more sustainable and resilient community in a post-carbon based economy.
 
 === Roles and Functions
-TTM is working towards the creation of an organisation model where we identify our core business functions and assign responsibility to our members.
+TTM is working towards the creation of an organisation model where we identify our core business functions and assign responsibility and accountability for their delivery and oversight to our members.
 
 These roles and functions are:
 
@@ -177,11 +187,11 @@ These roles and functions are:
 | #TBA#
 
 | Grants, proposals and advocacy
-| Yvonne Rooney
-| Amber-Lea Drinnan
+| #TBA#
+| #TBA#
 
 | Membership and recruitment
-| Monique
+| #TBA#
 |
  
 | Programme Management
@@ -191,6 +201,7 @@ These roles and functions are:
 | Management and Information Systems
 | Chris Gardiner-Bill
 |
+
 |====
 
 === The Outcomes That Are We Seeking to Achieve
@@ -201,7 +212,8 @@ For the period of 2016-2016, TTM will work towards achieving the following goals
 * Align community expectations with COP21
 * Sustainable Transport
 * Expanding existing projects
-* These are detailed in the following sections.
+
+These objectives are detailed in the following sections and will be further explored in our <<Action Plan>>.
 
 ==== Ringwood East – a sustainable pilot model
 TTM is seeking to work with the Maroondah City Council to develop the Ringwood East activity area as a model of resilience, sustainability and environmental excellence which could be replicated in other areas of Maroondah.
@@ -224,23 +236,23 @@ TTM has achieved considerable success in the local community in recent years wit
 * https://croydonfoodswap.wordpress.com[Outer Eastern Permaculture Swap] (_formerly Croydon Food Swap_). This Food Swap intuitive began in Croydon and now has branches in Mooroolbark and Wonga Park.
 * Creation of a local http://groundtoground.org/[Ground to Ground] initiative
 * Annual Earth Hour event planning and hosting in collaboration with Maroondah City Council.
-* http://ttm.org.au[TTM website] and social media campaign.
+* http://ttm.org.au[TTM website] (_Now under new stewardship_).
+* Several successful social media campaign.
 * Supported participation in ride to school days and ride to work days.
 * Advocated for sustainable transport
 * Formed a Ringwood East Garden Group
-* Been involved in a Community Housing Group.
+* Involvement in a Community Housing Group.
 * Assisted with tree plantings and preservation of native bushland.
 * Facilitated monthly gatherings with films, guest speakers and shared meals for Maroondah residents.
 * Held a regular stall in the sustainability area of the Maroondah Festival.
 * Presented Composting, Reskilling and Waste workshops.
-* Been involved in Sustainability Education in relation to the Transition Towns Initiatives and broader Transition Towns Network.
+* Involvement in Sustainability Education in relation to the Transition Towns Initiatives and broader Transition Towns Network.
 * Participated in the 2040 Maroondah Vision.
-* Help Solar Information Forum promoting the value of solar power.
+* Helped Solar Information Forum promoting the value of solar power.
 * Organised Street Parties.
 * Participated in Forums on Education, Food Security, Energy Management.
-* Played a notable role in the evolvement of the Ringwood East Structure Plan (which is to be ratified April 2016).
-* Been involved with discussions organised by the Council re development of the Maroondah 
-Housing Strategy.
+* Played a notable role in the evolution of the Ringwood East Structure Plan (which is to be ratified April 2016).
+* Involvement with discussions organised by the Council re development of the Maroondah Housing Strategy.
 
 These successes have helped to establish TTM as a well-respected local organisation. Moreover, they have provided us with a platform from which we can engage with the community on new initiatives planned for this period.
 
@@ -302,7 +314,7 @@ Legal:
 
 Environmental:
 
-* COP21
+* http://www.cop21.gouv.fr/en[COP21]
 * Resource depletion
 * Carbon
 * Ocean acidification
