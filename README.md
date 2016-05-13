@@ -16,7 +16,7 @@ You can learn more about the Transition Initiative and TTM at our [website](http
 ## Documents
 
 * TTM Strategic Plan 2016-2018 (in progress)
-* Privacy Policy (TBC)
+* Privacy Policy (draft committed)
 * Project Management Process (TBC)
 
 
