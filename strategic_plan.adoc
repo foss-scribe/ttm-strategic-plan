@@ -6,7 +6,7 @@
 :linkcss:
 :icons: font
 :author: Chris Gardiner-Bill
-:revnumber: 0.8
+:revnumber: 0.9
 :revdate: 13/5/2016
 :toc:
 :toc-placement!:
@@ -23,6 +23,12 @@ Revision Number: {revnumber}, Issue Date: {revdate}
 
 |====
 | No.	| Prepared by	| Approved by	| Release Date	| Comments
+
+| 0.9
+| Chris Gardiner-Bill
+|
+| 13/5/2016
+| Major changes to SWOTs and Action Plan
 
 | 0.8
 | Chris Gardiner-Bill
@@ -128,15 +134,15 @@ ____
 
 Transition Town Maroondah will achieve our vision through:
 
-* Educating the community
-* Starting and encouraging debate
-* Being the catalyst for the community involvement
-* Advocacy at all levels of community, government and business
-* Initiate, facilitate and manage projects
-* Seeding funding for initiatives
-* Supporting and empowering people and businesses
-* Adopting global Transition Town methods
-* Engagement with Council
+* Educating the community.
+* Starting and encouraging debate.
+* Being the catalyst for the community involvement.
+* Advocacy at all levels of community, government and business.
+* Initiate, facilitate and manage projects.
+* Seeding funding for initiatives.
+* Supporting and empowering people and businesses.
+* Adopting global Transition Town methods.
+* Engagement with Council.
 
 === Our values
 
@@ -147,6 +153,18 @@ Transition Town Maroondah's values are:
 * Open, respectful and honest communication and cooperation.
 * Recognition that all ages, races and religions in the community are equal.
 * Courage and belief in our mission.
+
+=== Our Longterm Goals
+
+Transition Town's longterm goals are:
+
+* Achieve Carbon neutrality and Renewable Energy.
+* Adopt sustainable transportion across the community.
+* Continuously import Engagement and Advocacy.
+* Re-invigorate and re-localise our economy.
+* Advocate longterm environmental conservation and preservation for future generations.
+* Encourage recycling, re-use and local micro-manufacturing and the maker culture.
+* Continue to promote and encourage the sharing of knowledge and skills with community members.
 
 == Organisational Context
 
@@ -191,7 +209,7 @@ These roles and functions are:
 | #TBA#
 
 | Membership and recruitment
-| #TBA#
+| Monique de Zoete
 |
  
 | Programme Management
@@ -210,7 +228,7 @@ For the period of 2016-2016, TTM will work towards achieving the following goals
 * Ringwood East – a sustainable pilot model
 * Increase community and member participation
 * Align community expectations with COP21
-* Sustainable Transport
+* Advocate for Sustainable Transport
 * Expanding existing projects
 
 These objectives are detailed in the following sections and will be further explored in our <<Action Plan>>.
@@ -374,6 +392,7 @@ In this section, TTM has identified our main stakeholders grouped by their indus
 
 === Strengths and Weaknesses
 
+
 Strengths:
 
 * membership
@@ -401,6 +420,9 @@ Weaknesses:
 * publicity
 * lack of knowledge of our membership 
 * Lack of subject matter expertise in some areas (ie waste)
+
+
+=== Opportunities and Threats
 
 Opportunities: 
 
@@ -436,13 +458,60 @@ Threats:
 * lack of collaboration
 * not being listened to 
 
-=== Leveraging our Strengths
+=== Our Response to the SWOT Analysis
+
+Our strengths, weaknesses, opportunities and threats were determined by classic SWOT analysis conducted by the Core Group under the facilitation of Phil Medley and Dale Bristow, of the Maroondah City Council.
+
+Once identified, our approach was then to rank six of each and determine the activities we can conduct to address each. Ranking occurred individually and the results where combined by the author.
+
+We recognise that strengths and weaknesses are internalities, entities directly controllable by the TTM Core Group. While opportunities and threats are externalities, entities that cannot be directly controlled by the TTM Core Group but nevetheless can have an impact on our success or failure in meeting our goals.
+
+==== Leveraging our Strengths
 
 In the table below, we describe the activities we will undertake that leverage our strengths as an organisation.
 
 |====
-| Strength	| Activity
+| Rank | Strength	| Activity
 
+| 1
+| Passion and commitment
+|
+
+| 2
+| Relationship with Council
+|
+
+* Engage with Council on projects
+* Help Council with research and studies
+* Continue to advocate for core TTM drivers
+
+| 3
+| Membership
+|
+
+* Improve communication with members
+* Audit their skills
+* Encourage adoption of paying-member tiers through membership incentives
+
+
+| 4
+| Knowledge and expertise
+|
+
+* Find and create ways to capture and share knowledge
+* Translate knowledge into projects, presentations, learning opportunities and grants
+
+| 5
+| Long term Core Group members
+|
+
+* Continue to build on the knowledge and networks established by our long-term members
+
+| 6
+| Incorporated status
+|
+
+* Leverage our status for grants, business opportunities and potential concessions
 
 |====
 
@@ -451,7 +520,55 @@ In the table below, we describe the activities we will undertake that leverage o
 In the table below, we describe the activities we will undertake to overcome our weaknesses as an organisation.
 
 |====
-| Weakness	| Activity
+| Rank | Weakness	| Activity
+
+| 1
+| Lack of strategy
+|
+
+* Strategic Plan (this document) to outline our strategy and approach
+* Create suite of management tools to facilitate initiation and running of projects
+
+| 2
+| Not engaged with wider membership
+| 
+
+* Engage and communicate more regularly with members
+* Conduct more frequent face-to-face events
+
+| 3
+| Lack of decision making
+| 
+
+* Define our goals concretely
+* Define clear leadership
+* Delegate important functions to appropriately skilled members
+
+| 4
+| Lack of knowledge of membership
+| 
+
+* Conduct a skills audit of membership
+* Engage and communicate more regularly with members
+
+| 5
+| Confused identity
+|
+
+* Create stronger values/mission statement
+* Create stronger branding
+* Conduct more consistent marketing and communications
+
+| 6
+| Use of IT
+| 
+
+* Develop tailored solutions to TTM
+* Develop standardised templates and documents
+* Look at utilising collaboration platforms
+* Better utilisation of electronic communication and social media
+* Reach out to IT savvy members
+* Leverage open-source software
 
 
 |====
@@ -461,8 +578,51 @@ In the table below, we describe the activities we will undertake to overcome our
 In the table below, we describe the activities we will undertake to capitalise on the opportunities we have identified.
 
 |====
-| Opportunities	| Activity
+| Rank | Opportunities	| Activity
 
+| 1
+| Ringwood East proposal as sustainability model
+|
+
+| 2
+| Climate and COP21
+|
+
+* Engage with people about the record climate
+* Capitalise on the interest generated by COP21
+
+| 3
+| Election year - Federal and Council
+|
+
+* Monitor important election issues and polls
+* Engage directly with candidates
+
+| 4
+| Use of media
+|
+
+* Look at establishing a bi-monthly newsletter
+* Stregthen our position on social media
+* Establish a Twitter account
+* Utilise our website as a central communications hub
+* Engage with local radio and newspapers
+
+| 5
+| Leverage of council projects
+|
+
+* Work closely with and assist Council on projects with a common interest
+* Establish and improve on relationships with key council personnel
+* Recognise that Maroondah CC is our largest and most influential stakeholder
+
+| 6
+| Local businesses
+|
+
+* Continue to work with local business on existing projects such as Ground-to-Ground
+* Establish relationships with Maroondah BizHub and other business associations
+* Seek out and establish relationships with business working in renewable technology, local food and other core TTM drivers
 
 |====
 
@@ -470,16 +630,200 @@ In the table below, we describe the activities we will undertake to capitalise o
 In the table below, we describe the activities we will undertake to mitigate the threats we have identified that will undermine our organisation or impede our ability to reach our goals.
 
 |====
-| Threats	| Activity
+| Rank | Threats	| Activity
 
+| 1
+| People are time poor
+|
+
+* Engage people at their interests
+* Share workloads and responsibilities
+* Leverage time-saving technology to automate tedious administrative tasks
+
+| 2
+| Lack of direction and priority
+| 
+
+* Define core values and goals for the next two years
+* Priorities tasks and projects based on available resources as well as need
+
+| 3
+| Lack of engagement - both membership and general community
+|
+
+* Engage in more and clearer communication across a range of media
+* Conduct a skills audit of members
+* Appoint a communications and stakeholder manager
+* Create a Communications and Stakeholder management plan
+* Create member incentives
+
+| 4
+| Lack of collaboration
+|
+
+* Improve communication
+* Be more clear about project requirements and tasks
+* Adopt better project management principles
+* Leverage collaboration technology to improve efficiency and access
+
+| 5
+| Lack of looking at 80/20 principle
+|
+
+* Adopt better processes
+* Utilise labour saving technology
+* Look for 'low-hanging fruit'
+
+| 6
+| Over committing
+|
+
+* Establish a clear project proposal process that estimates resources and effort required
+* Limit number of projects to an achievable amount
+* Create an accessible repository to mothball projects until resources are available
+* Be more clear about project requirements and tasks
 
 |====
 
 == Strategic Framework
 
-=== Our Goals -- 2016-2018
+
+* Ringwood East – a sustainable pilot model
+* Increase community and member participation
+* Align community expectations with COP21
+* Advocate for Sustainable Transport
+* Expanding existing projects
+
+
 
 === Action Plan
+
+In this section we describe the major actions we will take. They have been developed from our list of goals for the 2016-2018 period and, where possible aligned to the activities developed as part of our SWOT analysis.
+
+It is important to note that these actions are work-in-progress and many will evolve into separate projects under the stewardship of TTM and their respective project times.
+
+
+==== Ringwood East – a sustainable pilot model
+
+|====
+| Action | Description	| Role	| Performance Measure
+
+
+| Improve marketing and communications for Ringwood East Project.
+| Ringwood East project needs to improve the way the project is marketed to residents, the wider Maroondah community and local businesses.
+| TTM will petition Council to create or appoint a position of _Marketing and Communications Coordinator_ for this important community project.
+| Council to employ person for project in a part- or full-time capacity/
+
+
+|====
+
+
+==== Membership, engaging and leveraging
+
+|====
+| Action | Description	| Role	| Performance Measure
+
+| Create Core Group Officership for Communications
+| Communication is vital to maintaining and growing a community and our current approach is ad-hoc and inconsistent and lacks clear voice and message.
+| The Core Group will appoint a Communications Manager charged with marketing and publicity across print, web and social media. They will be responsible for creating and executing a communication strategy delivered as a _Communications Management Plan_ for members and stakeholders.
+|
+
+Core Group appoints suitable candidate.
+
+Candiate develops working _Communication Management Plan_
+
+
+| Skills audit
+| Conduct a survey of skills among TTM members
+| TTM will develop this as a project, leveraging the website and social media
+| 
+Develop, test and deliver needed software.
+
+Successfully receive 50 survey results
+
+| Membership incentives
+| Currently there are no incentives to joining TTM as a paying member beyond the right to vote for TTM Officer Bearers during the AGM. This is severely impacting on potential revenue which is having a follow on effect with the ability to pay for PL insurance, domain name renewal and to finance projects.
+| TTM will appoint a membership and recruitment manager who will be appointed with the task of creating incentives to encourage members to join and join at the paying tier.
+| 
+
+4+| Online Membership form (see <<Improve use of Business, technology and communication tools>>)
+
+
+
+|====
+
+==== Local economy initiatives
+
+|====
+| Action | Description	| Role	| Performance Measure
+
+| Swap programmes
+| The consumer economy is a double-edged sword, generally improving standards of living but at the same time deleting natural resources, using fossil fuels and often increasing household and personal debt. Creating a thriving barter and sharing culture is one strategy to keeping consumer products in circulation longer before they are committed to landfill or recycling.
+| TTM will create a series of swapping initiatives based on previous experience. The first planned initiative is a clothes swap.
+| Successfully plan, advertise and deliver and regular clothes swap event.
+
+|====
+
+==== COP21, Carbon Neutrality and Renewable Energy
+
+|====
+| Action | Description	| Role	| Performance Measure
+
+| _Householder’s Guide to Achieving Carbon Neutrality_
+| Project to produce and publish a practical manual for householders to achieve carbon neutrality 
+| TTM will initiate and lead the project and will publish the document on the TTM website
+| 
+
+Successfully create and publish the document.
+
+Circuit to householders
+
+| Solar Panel Project
+| Maroondah CC is planning a community Solar Panel Project aimed at low-income earners
+| TTM will work with the Council to develop the project 
+| Assign a Core Group member to the Council project team as TTM liaison
+
+
+
+|====
+
+==== Sustainable Transportation
+
+|====
+| Develop a TTM Sustainable Transport Manifesto
+| Sustainable transport is critical to transport however, transport budgets and legislation is tightly controlled by Government. Conducting transportation projects in road and rail are beyond the ability and budget of TTM.  
+| TTM will create a manifesto that describes our long-term strategy for achieving sustainable transport in Maroondah. The document should recognise the impact of Peak Oil on society as well as Carbon emission on the environment. If possible, TTM will work with Maroondah CC.
+| Document ratified by Maroondah City Council
+|====
+
+==== Improve use of Business, technology and communication tools
+
+|====
+| Action | Description	| Role	| Performance Measure
+
+| Online membership forms
+| Currently, membership managed by a combination of offline forms, Gmail contact groups and a Wordpress plugin. Members must either join in person or download a form and send it manually to the Core Group. This is very inefficient and is hampering member recruitment.
+| TTM will look at consolidating this process, by creating a single member database with a single online form.
+| Successful develop, testing and launch of the project.
+
+| Develop suite of project management processes
+| A standard suite of project (and business) management processes and documents can greatly improve efficiency and consistency. By leveraging the web, database technology and automation, they can negate administrative grind and burnout. They can also help people with limited project management experience to undertake projects following guidelines and best-practice so they can concentrate less on administration and more on achieving their project.
+| TTM will develop a formal suite of project management tools include: a project development process, proposal templates, project register and management plan templates. We will likely store much of it online to encourage openness and improve collaboration. The entire suite will be released under Creative Commons licence and any software created will be released under the GPL open source licence.
+|
+
+Develop, test and deliver the suite.
+
+At least one major project to follow the process.
+
+| Investigate use of collaboration platform
+| Collaboration platforms make it easier for teams to communicate efficient without having to meet face-to-face. Email however is not particular efficient for group collaboration.
+| TTM will investigate the use of emerging cloud-based collaboration platforms designed to improve efficiency and work across desktop and mobile computing platforms.
+|
+
+
+
+|====
+
 
 === Key performance Indicators
 
