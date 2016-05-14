@@ -602,7 +602,7 @@ In the table below, we describe the activities we will undertake to capitalise o
 | Use of media
 |
 
-* Look at establishing a bi-monthly newsletter
+* Look at establishing a monthly newsletter
 * Stregthen our position on social media
 * Establish a Twitter account
 * Utilise our website as a central communications hub
@@ -754,6 +754,8 @@ Successfully receive 50 survey results
 
 ==== Local economy initiatives
 
+//NOTE from Pam - idea about working with LETS 2016-05-14
+
 |====
 | Action | Description	| Role	| Performance Measure
 
@@ -802,7 +804,7 @@ Circuit to householders
 | Action | Description	| Role	| Performance Measure
 
 | Online membership forms
-| Currently, membership managed by a combination of offline forms, Gmail contact groups and a Wordpress plugin. Members must either join in person or download a form and send it manually to the Core Group. This is very inefficient and is hampering member recruitment.
+| Currently, membership managed by a combination of offline forms, Gmail contact groups and a Wordpress plugin. Currently we ask that Members either join in person or download a form and send it manually to the Core Group. This is very inefficient and is hampering member recruitment.
 | TTM will look at consolidating this process, by creating a single member database with a single online form.
 | Successful develop, testing and launch of the project.
 
