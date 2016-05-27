@@ -10,15 +10,48 @@
 
 == Privacy Policy
 
-This document sets forth the Privacy Policy for Transition Towns Maroondah, inc (TTM), effective from May 2016.
+This document sets forth the Privacy Policy for Transition Towns Maroondah, inc (TTM), effective from May 2016. It sets out our commitment to privacy and describes at a high-level the data we collect and how we use it.
 
-TTM is committed to the principles of sustainability, carbon neutrality and building community resilience. TTM is bound by the https://www.legislation.gov.au/Series/C2004A037122[_Privacy Act 1988 (Crh)_] (Privacy Act), which sets out a number of principles concerning the privacy of individuals.
+=== About Transition Town Maroondah
+
+TTM is committed to the principles of sustainability, carbon neutrality and building community resilience. We are part of a larger, internation Transition network; a loose alliance of environmental and permaculture groups whose aims are to ensure societies are able to adapt to a post-carbon and fossil-fuel based economy.
+
+=== Commitment and Obligation
+
+At the forefront of our concerns is your privacy and the security of data we hold. 
+
+
+To that end we are drafting a Privacy Policy that clearly states what data we collect and what we will and will not do with it. Stored passwords will be encrypted and we will migrate to using end-to-end encryption so that all traffic between your browser and our website will be kept private and secure. We will also migrate from using Gmail as both an email service and contacts database.
+
+Access to any data we hold will be restricted to the TTM Core Group and designated project manager
+
+TTM is bound by the https://www.legislation.gov.au/Series/C2004A037122[_Privacy Act 1988 (Crh)_] (Privacy Act), which sets out a number of principles concerning the privacy of individuals.
+
+=== Changes to this Privacy Policy
+
+TTM reserves the right to make amendments to this Privacy Policy at any time. Notification of changes will be published through the following channels:
+
+* The GitHub repository where this document is developed
+* The http://ttm.org.au[ttm.org.au] website 
+* The TTM Facebook page
 
 == Collection of your personal information
 
 === TTM website
 
-There are many aspects of the ttm.org.au website, which can be viewed without providing personal information, however, becoming a TTM member, taking part in surveys and projects requires that you submit personally identifiable information. This may include but not limited to a unique personal details, username and password, or provide sensitive information in the recovery of your lost password.
+There are many aspects of the ttm.org.au website, which can be viewed without providing personal information. However, we do use analytical software that collects information such as your IP address, browser, operating system and other technical data. 
+
+By becoming a TTM member, which is mandatory for taking part in surveys and projects, we require that you submit personally identifiable information. This may include but not limited to your email address, name, address, contact details and your personal interests and skills.
+
+Use of this data is described in <<Use of your personal information>>.
+
+=== TTM and Community Events
+
+TTM has in the past collected personal information using paper forms at events where TTM has maintained a presence. 
+
+Effective June 2016 this practice will be replaced in most instances by either providing the ability to use the TTM new member form directly or by referring potential members to the page.
+
+Information collected at events may include personally identifyable information and/or information specific to the event itself.
 
 == Sharing of your personal information
 
@@ -26,29 +59,49 @@ TTM will not share any personal information without prior consent.
 
 Participation in certain TTM projects and events may require sharing your information with the TTM Core Group, project participants, the wider TTM membership base, other sustainability or related community groups or the Maroondah City Council.
 
-Where information is shared, TTM requires that the aforementioned groups **MUST** comply with this policy and with the Privacy Act.
+The type of information shared will depend on the activity. For example, aligning members to projects or other members with similar skills, only the most basic information (name, email) will be shared to initiate contact. Where we share broad information about out membership in reports, graphics or as evidence for grant applications, all personal information will be anonymised and protected.
+
+Where personal information is shared, TTM requires that the aforementioned groups **MUST** comply with this policy, have their own policies and procedures for handling personal data and must comply with the Privacy Act.
 
 
 == Use of your personal information
 
-For each visitor to reach the site, we expressively collect the following non-personally identifiable information, including but not limited to browser type, version and language, operating system, pages viewed while browsing the Site, page access times and referring website address. This collected information is used solely internally for the purpose of gauging visitor traffic, trends and delivering personalised content to you while you are at this Site.
+=== Technical data
+
+Our analytic software expressively collects the following non-personally identifiable information, including but not limited to browser type, version and language, operating system, pages viewed while browsing the Site, page access times and referring website address. This collected information is used internally for the purpose of gauging visitor traffic, trends and site performance.
+
+
+=== Personal data
+
+TTM uses your personal information, in particular your interests, skills and your location to develop projects and initiatives, or suggest projects you may be interested in. Where practical, this will be done by algorithm with information pushed to you rather than shared on an individual basis with a TTM project manager.
 
 From time to time, we may use personal information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will use for these new purposes only, data collected from the time of the policy change forward will adhere to our updated practices.
 
-== Changes to this Privacy Policy
+== Storage and access of data
 
-TTM reserves the right to make amendments to this Privacy Policy at any time.  Notification of changes will be published through the following channels:
+=== Technical Data
 
-* The http://ttm.org.au[ttm.org.au] website 
-* The TTM Facebook page
-* The GitHub repository where this document is developed
+Technical data is stored with our current analytic software provider (Google Analytics). Only the TTM Site Administrator has access to this information.
+
+=== Personal data
+
+Personally identifying data is stored in our website database. This database and your is protected with several measures including authentication, public network access restriction and encryption of sensitive fields, such as passwords.
+
+Access to the database is currently restricted to the TTM Site Administrator.
 
 
 == Accessing Your Personal Information
 
-You have a right to access your personal information, subject to exceptions allowed by law. If you would like to do so, please let us know. You may be required to put your request in writing. For security and privacy reasons, you may be required to provided evidence of your identity.
+You have the right to access your personal information, subject to exceptions allowed by law. If you would like to do so, please let us know. You may be required to put your request in writing. For security and privacy reasons, you may be required to provided evidence of your identity.
 
 TTM reserves the right to charge a fee for searching for, and providing access to, your information on a per request basis.
+
+== Removal of your personal data
+
+You have the right to request that your personal information is deleted. Currently (May-June 2016) this must be done be contacting us directly.
+
+Where requests to delete accounts are made, TTM will purge all personal information from our database.
+
 
 == Contacting us
 
