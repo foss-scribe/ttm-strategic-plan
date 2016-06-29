@@ -6,8 +6,8 @@
 :linkcss:
 :icons: font
 :author: Chris Gardiner-Bill; Stuart Lewien
-:revnumber: 0.10
-:revdate: 24/6/2016
+:revnumber: 0.11
+:revdate: 29/6/2016
 :toc:
 :toc-placement!:
 
@@ -21,6 +21,13 @@ Revision Number: {revnumber}, Issue Date: {revdate}
 
 |====
 | No.	| Prepared by	| Approved by	| Release Date	| Comments
+
+| 0.11
+| Chris Gardiner-Bill
+|
+| 29/6/2016
+| Fixed table formatting
+
 
 | 0.10
 | Stuart Lewien
