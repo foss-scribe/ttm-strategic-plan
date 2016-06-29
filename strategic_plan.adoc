@@ -6,8 +6,8 @@
 :linkcss:
 :icons: font
 :author: Chris Gardiner-Bill; Stuart Lewien
-:revnumber: 0.11
-:revdate: 29/6/2016
+:revnumber: 0.12
+:revdate: 30/6/2016
 :toc:
 :toc-placement!:
 
@@ -21,6 +21,13 @@ Revision Number: {revnumber}, Issue Date: {revdate}
 
 |====
 | No.	| Prepared by	| Approved by	| Release Date	| Comments
+
+| 0.12
+| Chris Gardiner-Bill
+|
+| 30/6/2016
+| Updated with additions and corrections by Pam French
+
 
 | 0.11
 | Chris Gardiner-Bill
@@ -446,7 +453,9 @@ In the table below, we describe the activities we will undertake that leverage o
 
 | 1
 | Passion and commitment
-|
+| 
+
+* Our passion will be authentic and we all will actively and continually use our time, influence and talents to bring about change.
 
 | 2
 | Relationship with Council
@@ -559,6 +568,8 @@ In the table below, we describe the activities we will undertake to capitalise o
 | Ringwood East proposal as sustainability model
 |
 
+* Work with the Maroondah Council to continually monitor progress of the planning and overseeing of the Structure Plan.
+
 | 2
 | Climate and COP21
 |
@@ -596,9 +607,9 @@ In the table below, we describe the activities we will undertake to capitalise o
 |
 
 * Continue to work with local business on existing projects such as Ground-to-Ground
-* Establish relationships with Maroondah BizHub and other business associations
+* Establish relationships with Maroondah BizHub and other local business associations
 * Establish relationships with businesses that provide sustainable goods or services eg renewable energy, local food, cycling equipment
-* Assist businesses that have sustainability issues eg bicycle parking could encourage their customers to cycle
+* Assist businesses that have sustainability issues for example, bicycle parking could encourage their customers to cycle
 
 |====
 
@@ -721,7 +732,8 @@ Successfully receive 50 survey results
 | Membership incentives
 | Currently there are no incentives to joining TTM as a paying member beyond the right to vote for TTM Officer Bearers during the AGM. This is severely impacting on potential revenue which is having a follow on effect with the ability to pay for PL insurance, domain name renewal and to finance projects.
 | TTM will appoint a membership and recruitment manager who will be appointed with the task of creating incentives to encourage members to join and join at the paying tier.
-| 
+| Attractive incentives advertised and monitored on the Membership Forms and Web Page.
+
 
 4+| Online Membership form (see <<Improve use of Business, technology and communication tools>>)
 
@@ -775,7 +787,7 @@ Advertise this resource to householders
 | Action | Description	| Role	| Performance Measure
 
 | Develop a TTM Sustainable Transport Manifesto
-| Sustainable transport is critical to transport however, transport budgets and legislation is tightly controlled by Government. Conducting transportation projects in road and rail are beyond the ability and budget of TTM.  
+| Sustainable transport is critical to transport. However, transport budgets and legislation is tightly controlled by Government. Conducting large transportation projects in road and rail is beyond the ability and budget of TTM.  
 | TTM will create a manifesto that describes our long-term strategy for achieving sustainable transport in Maroondah. The document should recognise the impact of Peak Oil on society as well as Carbon emission on the environment. If possible, TTM will work with Maroondah CC.
 | Document ratified by Maroondah City Council
 |====
@@ -800,7 +812,7 @@ Develop, test and deliver the suite.
 At least one major project to follow the process.
 
 | Investigate use of collaboration platform
-| Collaboration platforms make it easier for teams to communicate efficient without having to meet face-to-face. Email however is not particular efficient for group collaboration.
+| Collaboration platforms make it easier for teams to communicate efficiently without having to meet face-to-face. Email however is not particular efficient for group collaboration.
 | TTM will investigate the use of emerging cloud-based collaboration platforms designed to improve efficiency and work across desktop and mobile computing platforms.
 |
 
