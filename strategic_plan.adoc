@@ -5,7 +5,7 @@
 :stylesheet: ttm.css
 :linkcss:
 :icons: font
-:author: Chris Gardiner-Bill
+:author: Chris Gardiner-Bill; Stuart Lewien
 :revnumber: 0.10
 :revdate: 24/6/2016
 :toc:
@@ -206,6 +206,7 @@ These roles and functions are:
 * Programme Management: To manage, facilitate and coordinate TTM and community projects and events.
 * Management and Information Systems: To develop, deploy and manage TTM business and information systems.
 
+.TTM Functional Roles
 |====
 | Function | Lead | Support
 
@@ -431,6 +432,8 @@ Strengths and weaknesses are internalities and therefore directly controllable b
 
 In the table below, we describe the activities we will undertake that leverage our strengths as an organisation.
 
+.Leveraging TTM Strengths
+[cols="1,3,6a"]
 |====
 | Rank | Strength	| Activity
 
@@ -480,6 +483,8 @@ In the table below, we describe the activities we will undertake that leverage o
 
 In the table below, we describe the activities we will undertake to overcome our weaknesses as an organisation.
 
+.Overcoming our Weaknesses
+[cols="1,3,6a"]
 |====
 | Rank | Weakness	| Activity
 
@@ -538,6 +543,8 @@ In the table below, we describe the activities we will undertake to overcome our
 
 In the table below, we describe the activities we will undertake to capitalise on the opportunities we have identified.
 
+.Capitalising on Opportunities
+[cols="1,3,6a"]
 |====
 | Rank | Opportunities	| Activity
 
@@ -591,6 +598,8 @@ In the table below, we describe the activities we will undertake to capitalise o
 === Mitigating Threats
 In the table below, we describe the activities we will undertake to mitigate the threats we have identified that will undermine our organisation or impede our ability to reach our goals.
 
+.Mitigating Threats
+[cols="1,3,6a"]
 |====
 | Rank | Threats	| Activity
 
