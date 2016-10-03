@@ -2,14 +2,13 @@
 :subtitle: Final Draft
 :imagesdir: images/
 :stylesdir: stylesheets/
-:stylesheet: ttm.css
+//:stylesheet: ttm.css
 :linkcss:
 :icons: font
 :author: Chris Gardiner-Bill; Stuart Lewien
-:revnumber: 0.12
+:revnumber: 1.0
 :revdate: 3/10/2016
-:toc:
-:toc-placement!:
+:toc: left
 
 
 [colophon]
@@ -108,8 +107,6 @@ Revision Number: {revnumber}, Issue Date: {revdate}
 
 <<<
 
-toc::[]
-
 
 //== Executive Summary
 
@@ -133,7 +130,7 @@ Following this, the Plan was developed in collaboration by the TTM Core Group (S
 
 In May 2016, the plan was released under a Creative Commons Licence and development moved to https://github.com/foss-scribe/ttm-strategic-plan[GitHub].
 
-The Plan was authorised and ratified by current President, Pamela French on \__/\__/2016.
+The Plan was authorised and ratified by current President, Pamela French on 3/10/2016.
 
 === The scope and parameters of this plan
 This plan seeks to define the strategic context and action for Transition Towns Maroondah for 2016 to 2018.
