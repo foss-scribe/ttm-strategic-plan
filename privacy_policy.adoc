@@ -20,7 +20,7 @@ TTM is committed to the principles of sustainability, carbon neutrality and buil
 
 We are committed to keeping information we collect and hold about our members and other stakeholders private and secure.
 
-TTM is bound by the https://www.legislation.gov.au/Series/C2004A037122[_Privacy Act 1988 (Crh)_] (Privacy Act), which sets out a number of principles concerning the privacy of individuals and the obligations laid upon entities who collect personal information.
+TTM is bound by the https://www.legislation.gov.au/Series/C2004A03712[_Privacy Act 1988 (Cth)_] (Privacy Act), which sets out a number of principles concerning the privacy of individuals and the obligations laid upon entities who collect personal information.
 
 
 === Changes to this Privacy Policy
