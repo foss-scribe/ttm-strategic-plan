@@ -3,7 +3,7 @@
 :imagesdir: images/
 :stylesdir: stylesheets/
 //:stylesheet: ttm.css
-:linkcss:
+:!linkcss:
 :icons: font
 :author: Chris Gardiner-Bill; Stuart Lewien
 :revnumber: 1.0
@@ -20,6 +20,12 @@ Revision Number: {revnumber}, Issue Date: {revdate}
 
 |====
 | No.	| Prepared by	| Approved by	| Release Date	| Comments
+
+| 1.1
+| Chris Gardiner-Bill
+| Pam French
+| 11/3/2017
+| Updated with new core group
 
 | 1.0
 | Chris Gardiner-Bill
@@ -202,11 +208,12 @@ TTM is structured as an incorporated body and made up of a Core Group containing
 
 * Pamela French, President
 * Stuart Lewien, Vice-President
-* Monique De Zoete, Acting Secretary
-* Jean Allan, Treasurer
-* Yvonne Rooney, Member
-* Amber-lea Drinnan, Member
-* Chris Gardiner-Bill, Member
+* Monique De Zoete, Secretary
+* Rebecca Blowfield, Treasurer
+* Yvonne Rooney, Core Group Member
+* Jess Croft, Core Group Member
+* Robin Hallett, Core Group Member
+* Chris Gardiner-Bill, Core Group Member
 
 The officers are responsible for leadership and guidance as well as meeting TTM’s legal requirements as an incorporated body.
 
@@ -225,27 +232,27 @@ These roles and functions are:
 
 .TTM Functional Roles
 |====
-| Function | Lead | Support
+| Function | Lead
 
 | Communications, Marketing and Publicity
-| #TBA#
-| #TBA#
+| Jess Croft
+
 
 | Grants, proposals and advocacy
 | #TBA#
-| #TBA#
+
 
 | Membership and recruitment
 | Monique de Zoete
-|
+
 
 | Programme Management
 | Stuart Lewien
-|
+
 
 | Management and Information Systems
 | Chris Gardiner-Bill
-|
+
 
 |====
 
